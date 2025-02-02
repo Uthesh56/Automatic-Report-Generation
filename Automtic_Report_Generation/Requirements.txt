@@ -1,0 +1,14 @@
+streamlit
+pandas
+numpy
+matplotlib
+plotly
+sentence-transformers
+chromadb
+transformers
+torch
+langchain
+fpdf2
+openpyxl
+nltk
+-e .

@@ -1,0 +1,11 @@
+setup.py
+Automatic_Report_Generation.egg-info/PKG-INFO
+Automatic_Report_Generation.egg-info/SOURCES.txt
+Automatic_Report_Generation.egg-info/dependency_links.txt
+Automatic_Report_Generation.egg-info/top_level.txt
+Stream/Generate_Result.py
+Stream/GettingData.py
+Stream/Main.py
+Stream/Retrieve.py
+Stream/Store_Vector.py
+Stream/__init__.py

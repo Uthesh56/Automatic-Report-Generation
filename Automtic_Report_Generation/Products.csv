@@ -1,0 +1,101 @@
+feedback,product,rating,sentiment,location,age_group,gender,product_category,brand_name,support_channel,issue_type,timestamp
+Support was unhelpful for Headphones,Headphones,1,neutral,Germany,45-54,Male,Home Appliances,Samsung,Social Media,Refund,2025-01-05
+Package arrived damaged for Headphones,Headphones,3,positive,USA,25-34,Female,Toys,Apple,Social Media,Refund,2025-01-11
+Customer service was excellent for Tablet,Tablet,2,negative,Canada,18-24,Female,Home Appliances,Nike,Phone,Refund,2025-01-05
+Friendly staff for Smartphone,Smartphone,1,neutral,India,18-24,Female,Toys,Apple,Chat,Defect,2025-01-01
+Friendly staff for Laptop,Laptop,2,negative,UK,55+,Male,Beauty,Sony,Chat,Refund,2025-01-16
+Item was defective for Headphones,Headphones,4,positive,India,18-24,Male,Toys,Sony,Social Media,Defect,2025-01-06
+Package arrived damaged for Smartphone,Smartphone,2,neutral,Canada,55+,Other,Apparel,Samsung,Email,Warranty,2025-01-01
+Customer service was excellent for Smartwatch,Smartwatch,1,neutral,Canada,45-54,Female,Beauty,Adidas,Phone,Refund,2025-01-27
+Item was defective for Laptop,Laptop,5,neutral,USA,55+,Other,Apparel,Nike,Phone,Defect,2025-01-27
+Support was unhelpful for Smartwatch,Smartwatch,2,negative,India,35-44,Female,Apparel,Samsung,Phone,Defect,2025-01-16
+Item was defective for Smartphone,Smartphone,1,neutral,India,55+,Female,Toys,Sony,Email,Defect,2025-01-27
+Fast delivery for Tablet,Tablet,4,positive,Germany,45-54,Male,Toys,Samsung,Phone,Delivery,2025-01-05
+Support was unhelpful for Smartwatch,Smartwatch,3,positive,UK,18-24,Other,Apparel,Nike,Email,Delivery,2025-01-26
+Fast delivery for Smartwatch,Smartwatch,4,negative,India,35-44,Female,Apparel,Samsung,Chat,Warranty,2025-01-18
+Item was defective for Tablet,Tablet,2,neutral,USA,18-24,Male,Beauty,Samsung,Phone,Refund,2025-01-22
+Customer service was excellent for Laptop,Laptop,3,negative,Canada,55+,Male,Electronics,Nike,Chat,Customer Service,2025-01-26
+Customer service was excellent for Laptop,Laptop,5,neutral,Germany,55+,Male,Electronics,Nike,Email,Delivery,2025-01-26
+Customer service was excellent for Headphones,Headphones,3,negative,India,35-44,Female,Beauty,Nike,Phone,Delivery,2025-01-29
+Support was unhelpful for Tablet,Tablet,2,positive,Germany,35-44,Male,Toys,Adidas,Social Media,Refund,2025-01-15
+Support was unhelpful for Headphones,Headphones,1,negative,India,18-24,Male,Apparel,Nike,Chat,Refund,2025-01-29
+Customer service was excellent for Laptop,Laptop,1,neutral,USA,55+,Male,Electronics,Nike,Email,Refund,2025-01-14
+Friendly staff for Smartwatch,Smartwatch,2,neutral,India,18-24,Female,Beauty,Apple,Chat,Delivery,2025-01-28
+Friendly staff for Tablet,Tablet,3,negative,UK,25-34,Other,Apparel,Samsung,Chat,Delivery,2025-01-23
+Fast delivery for Headphones,Headphones,1,positive,India,25-34,Other,Apparel,Samsung,Phone,Defect,2025-01-31
+Support was unhelpful for Laptop,Laptop,2,negative,USA,18-24,Other,Home Appliances,Samsung,Chat,Defect,2025-01-29
+Item was defective for Tablet,Tablet,3,neutral,USA,55+,Female,Beauty,Adidas,Email,Refund,2025-01-10
+Item was defective for Smartwatch,Smartwatch,3,positive,Germany,35-44,Male,Electronics,Apple,Social Media,Warranty,2025-01-08
+Package arrived damaged for Tablet,Tablet,1,negative,Germany,55+,Male,Toys,Nike,Email,Refund,2025-01-26
+Package arrived damaged for Smartwatch,Smartwatch,5,neutral,India,45-54,Other,Electronics,Adidas,Chat,Delivery,2025-01-24
+Item was defective for Tablet,Tablet,2,positive,India,25-34,Other,Apparel,Sony,Email,Defect,2025-01-10
+Fast delivery for Headphones,Headphones,5,negative,USA,18-24,Male,Beauty,Nike,Phone,Defect,2025-01-25
+Friendly staff for Laptop,Laptop,3,positive,Canada,18-24,Female,Electronics,Sony,Chat,Refund,2025-01-23
+Package arrived damaged for Smartwatch,Smartwatch,2,negative,Germany,18-24,Male,Toys,Sony,Social Media,Customer Service,2025-01-31
+Fast delivery for Smartwatch,Smartwatch,2,positive,India,55+,Female,Beauty,Adidas,Social Media,Delivery,2025-01-18
+Support was unhelpful for Smartphone,Smartphone,5,neutral,Canada,25-34,Female,Electronics,Adidas,Chat,Customer Service,2025-01-09
+Fast delivery for Laptop,Laptop,3,neutral,Germany,18-24,Other,Apparel,Samsung,Email,Warranty,2025-01-19
+Package arrived damaged for Tablet,Tablet,4,negative,Canada,35-44,Male,Apparel,Samsung,Chat,Customer Service,2025-01-23
+Item was defective for Headphones,Headphones,1,positive,India,18-24,Other,Apparel,Apple,Chat,Refund,2025-01-26
+Package arrived damaged for Smartwatch,Smartwatch,5,negative,UK,18-24,Other,Electronics,Sony,Email,Refund,2025-01-05
+Customer service was excellent for Laptop,Laptop,1,neutral,Canada,35-44,Other,Home Appliances,Sony,Email,Delivery,2025-01-13
+Customer service was excellent for Smartphone,Smartphone,2,neutral,Canada,45-54,Other,Toys,Sony,Email,Refund,2025-01-09
+Fast delivery for Laptop,Laptop,5,negative,USA,45-54,Other,Electronics,Sony,Phone,Refund,2025-01-16
+Friendly staff for Tablet,Tablet,3,negative,India,18-24,Male,Electronics,Sony,Email,Refund,2025-01-03
+Friendly staff for Headphones,Headphones,5,neutral,Canada,45-54,Other,Electronics,Nike,Social Media,Refund,2025-01-06
+Package arrived damaged for Laptop,Laptop,4,positive,Germany,45-54,Other,Toys,Samsung,Email,Customer Service,2025-01-12
+Package arrived damaged for Laptop,Laptop,2,negative,UK,55+,Female,Toys,Apple,Chat,Customer Service,2025-01-16
+Package arrived damaged for Headphones,Headphones,1,negative,Germany,45-54,Other,Home Appliances,Sony,Phone,Defect,2025-01-21
+Friendly staff for Headphones,Headphones,4,neutral,UK,55+,Female,Electronics,Sony,Chat,Delivery,2025-01-24
+Customer service was excellent for Smartwatch,Smartwatch,2,negative,USA,18-24,Female,Toys,Samsung,Social Media,Defect,2025-02-01
+Package arrived damaged for Tablet,Tablet,3,positive,Germany,25-34,Other,Toys,Nike,Phone,Defect,2025-01-23
+Item was defective for Smartwatch,Smartwatch,5,positive,UK,45-54,Male,Toys,Sony,Social Media,Delivery,2025-01-19
+Customer service was excellent for Headphones,Headphones,4,negative,Canada,35-44,Other,Electronics,Apple,Email,Defect,2025-01-30
+Package arrived damaged for Smartwatch,Smartwatch,3,positive,UK,25-34,Male,Toys,Nike,Phone,Refund,2025-01-26
+Item was defective for Smartphone,Smartphone,4,negative,Germany,35-44,Other,Beauty,Samsung,Social Media,Defect,2025-01-30
+Package arrived damaged for Laptop,Laptop,2,neutral,India,25-34,Female,Beauty,Nike,Chat,Refund,2025-01-15
+Package arrived damaged for Smartwatch,Smartwatch,3,neutral,India,18-24,Other,Toys,Adidas,Email,Defect,2025-01-12
+Fast delivery for Headphones,Headphones,5,positive,India,45-54,Female,Toys,Nike,Email,Defect,2025-01-20
+Friendly staff for Tablet,Tablet,2,positive,India,25-34,Other,Apparel,Nike,Social Media,Warranty,2025-01-06
+Fast delivery for Smartphone,Smartphone,1,neutral,UK,18-24,Male,Home Appliances,Samsung,Phone,Defect,2025-01-14
+Item was defective for Headphones,Headphones,2,positive,USA,45-54,Female,Electronics,Sony,Phone,Defect,2025-01-09
+Item was defective for Smartwatch,Smartwatch,4,positive,India,35-44,Female,Beauty,Sony,Email,Customer Service,2025-01-09
+Friendly staff for Headphones,Headphones,5,neutral,India,45-54,Other,Beauty,Samsung,Social Media,Warranty,2025-01-27
+Item was defective for Smartwatch,Smartwatch,5,positive,India,45-54,Male,Apparel,Apple,Email,Refund,2025-01-26
+Fast delivery for Smartphone,Smartphone,2,positive,USA,18-24,Female,Home Appliances,Samsung,Chat,Defect,2025-01-06
+Package arrived damaged for Smartphone,Smartphone,2,neutral,UK,18-24,Male,Beauty,Sony,Email,Warranty,2025-01-21
+Friendly staff for Smartwatch,Smartwatch,2,negative,Germany,18-24,Male,Toys,Adidas,Social Media,Defect,2025-01-13
+Fast delivery for Smartwatch,Smartwatch,3,negative,India,45-54,Female,Beauty,Adidas,Social Media,Delivery,2025-01-18
+Package arrived damaged for Smartphone,Smartphone,1,positive,India,35-44,Female,Home Appliances,Adidas,Phone,Delivery,2025-01-21
+Fast delivery for Laptop,Laptop,4,negative,Germany,55+,Other,Electronics,Nike,Social Media,Warranty,2025-01-19
+Item was defective for Tablet,Tablet,4,positive,Canada,35-44,Other,Electronics,Samsung,Phone,Defect,2025-01-25
+Item was defective for Headphones,Headphones,4,negative,Canada,25-34,Male,Apparel,Adidas,Phone,Warranty,2025-01-29
+Friendly staff for Headphones,Headphones,4,neutral,UK,35-44,Male,Electronics,Sony,Email,Delivery,2025-01-27
+Package arrived damaged for Headphones,Headphones,4,negative,USA,55+,Male,Toys,Apple,Chat,Refund,2025-01-26
+Friendly staff for Laptop,Laptop,4,negative,India,18-24,Male,Home Appliances,Nike,Phone,Customer Service,2025-01-22
+Fast delivery for Tablet,Tablet,5,negative,India,45-54,Other,Apparel,Sony,Chat,Refund,2025-01-04
+Support was unhelpful for Smartphone,Smartphone,5,negative,UK,55+,Female,Toys,Sony,Chat,Defect,2025-01-02
+Fast delivery for Headphones,Headphones,2,positive,Canada,45-54,Male,Electronics,Samsung,Chat,Warranty,2025-01-16
+Friendly staff for Laptop,Laptop,2,negative,USA,35-44,Male,Electronics,Nike,Chat,Defect,2025-01-17
+Customer service was excellent for Laptop,Laptop,1,neutral,UK,45-54,Other,Beauty,Sony,Chat,Refund,2025-01-14
+Package arrived damaged for Laptop,Laptop,4,neutral,Canada,18-24,Female,Beauty,Sony,Chat,Delivery,2025-01-24
+Fast delivery for Smartphone,Smartphone,5,positive,UK,55+,Male,Electronics,Nike,Social Media,Delivery,2025-01-20
+Package arrived damaged for Headphones,Headphones,5,neutral,India,18-24,Male,Electronics,Apple,Social Media,Warranty,2025-01-16
+Support was unhelpful for Headphones,Headphones,2,negative,Germany,45-54,Female,Apparel,Adidas,Chat,Refund,2025-01-05
+Item was defective for Smartphone,Smartphone,5,negative,Germany,18-24,Female,Electronics,Nike,Phone,Warranty,2025-01-05
+Friendly staff for Laptop,Laptop,5,positive,India,18-24,Other,Beauty,Adidas,Social Media,Defect,2025-01-19
+Item was defective for Tablet,Tablet,3,neutral,India,18-24,Male,Electronics,Apple,Phone,Warranty,2025-01-17
+Item was defective for Smartphone,Smartphone,5,negative,UK,45-54,Other,Home Appliances,Apple,Social Media,Refund,2025-01-22
+Customer service was excellent for Smartwatch,Smartwatch,4,negative,UK,55+,Female,Home Appliances,Samsung,Chat,Customer Service,2025-01-28
+Customer service was excellent for Smartwatch,Smartwatch,4,positive,India,35-44,Other,Home Appliances,Apple,Social Media,Warranty,2025-01-06
+Package arrived damaged for Tablet,Tablet,3,negative,India,55+,Other,Beauty,Apple,Email,Defect,2025-01-20
+Friendly staff for Smartwatch,Smartwatch,2,negative,India,25-34,Other,Beauty,Nike,Social Media,Defect,2025-01-19
+Item was defective for Headphones,Headphones,3,neutral,UK,18-24,Female,Apparel,Samsung,Chat,Refund,2025-01-08
+Fast delivery for Smartwatch,Smartwatch,4,negative,UK,55+,Male,Electronics,Adidas,Social Media,Refund,2025-01-09
+Support was unhelpful for Smartphone,Smartphone,4,neutral,Germany,35-44,Male,Electronics,Adidas,Social Media,Warranty,2025-01-25
+Fast delivery for Tablet,Tablet,4,positive,Germany,35-44,Female,Beauty,Adidas,Social Media,Delivery,2025-01-09
+Support was unhelpful for Smartwatch,Smartwatch,5,negative,Germany,45-54,Other,Apparel,Nike,Chat,Defect,2025-01-03
+Friendly staff for Smartphone,Smartphone,1,neutral,UK,55+,Male,Toys,Sony,Chat,Defect,2025-01-27
+Package arrived damaged for Laptop,Laptop,3,negative,India,25-34,Female,Toys,Adidas,Phone,Delivery,2025-01-17
+Package arrived damaged for Laptop,Laptop,1,positive,UK,45-54,Male,Electronics,Adidas,Chat,Customer Service,2025-01-12
+Package arrived damaged for Smartphone,Smartphone,3,neutral,India,55+,Other,Toys,Adidas,Social Media,Customer Service,2025-01-22
